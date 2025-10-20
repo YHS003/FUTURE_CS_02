@@ -1,4 +1,4 @@
-# SOC Internship Task - Task Two  
+# Cyber Security Internship Task - Task Two  
 *Prepared by: Yehya Hamdy Sayed-Ahmed Mohammed*  
 *Date: October 20, 2025, 03:48 PM EEST*  
 *Submitted to: Future Interns Task Two*
@@ -94,5 +94,5 @@ Thank you once again, Future Interns, for this transformative experience. I look
 
 *Best regards,*  
 *Yehya Hamdy Sayed-Ahmed Mohammed*  
-*SOC Intern*  
+*Cyber Security Intern*  
 *October 20, 2025, 03:48 PM EEST*
