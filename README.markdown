@@ -11,7 +11,7 @@ This repository contains the deliverables for Task Two of my internship with Fut
 ---
 
 ## Task Description  
-The SOC Internship Task Two required me to:
+The Cyber Security Internship Task Two required me to:
 - Analyze security logs to identify critical incidents that occurred on July 3, 2025.
 - Use Splunk to search and filter logs for threats like malware, failed login attempts, and connection anomalies.
 - Classify the alerts based on severity and document them in a structured format.
@@ -55,10 +55,10 @@ This task was a completely new territory for me. Here’s what I learned along t
 ## Repository Structure  
 The repository is organized to make it easy to navigate. Here’s the layout:
 
-- **/report**: Contains the Incident Response Report files.
-  - `Incident_Response_Report.docx`: The editable Word document.
-  - `Incident_Response_Report.pdf`: The finalized PDF version.
-- **/screenshots**: Holds the supporting images from Splunk analysis.
+- **/Incident Response Report**: Contains the Incident Response Report files.
+  - `Incident Response Report.docx`: The editable Word document.
+  - `Incident Response Report.pdf`: The finalized PDF version.
+- **/Screen Shots**: Holds the supporting images from Splunk analysis.
   - `image1.png`: Screenshot of malware detected alerts.
   - `image2.png`: Screenshot of the failed login attempt.
   - `image3.png`: Screenshot of connection attempt anomalies.
